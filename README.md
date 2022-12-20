@@ -1,4 +1,4 @@
-[![MasterHead](https://d33wubrfki0l68.cloudfront.net/ca11d34e4c7b910922d9063384ad64850c463099/d5c54/static/fca6dfff85717703fdee7fa748d779a5/rust-cpp-header.png)](https://github.com/Mher007)
+[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://github.com/Mher007)
 <h1 align="center">Hi 👋, I'm Mher Grigoryan</h1>
 <h3 align="center">I am a software testing engineer</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
 - 🌱 I’m currently learning **JavaScript + React**
