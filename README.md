@@ -23,14 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/mher_grigoryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mher_grigoryan" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mher-grigoryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mher-grigoryan/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20820531/mher007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20820531/mher007" height="30" width="40" /></a>
+
 <a href="https://fb.com/https://www.facebook.com/people/mher-grigoryan/100024063444047/?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/mher-grigoryan/100024063444047/?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mhergrigoryan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhergrigoryan_/" height="30" width="40" /></a>
-<a href="https://medium.com/mher grigoryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mher grigoryan" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyy2_ikuw5nkp3hl1upqdcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyy2_ikuw5nkp3hl1upqdcw" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mher007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mher007" height="30" width="40" /></a>
+
 <a href="https://discord.gg/https://discord.gg/NVS4FAMF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NVS4FAMF" height="30" width="40" /></a>
 </p>
 
